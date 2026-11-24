@@ -1,0 +1,8 @@
+{
+  "name": "Battle Arena Tournaments",
+  "description": "Local demo esports tournament hub built with Kotlin and Jetpack Compose featuring tournaments, match registration, demo points wallet, standings, rewards, and an admin dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

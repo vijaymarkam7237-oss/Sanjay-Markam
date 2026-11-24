@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Outer esports shield crest centered within 66dp safe zone (21..87) -->
+    <path
+        android:fillColor="#FF00D4FF"
+        android:pathData="M54,23L79,32V54C79,68.5 68.3,80.4 54,85C39.7,80.4 29,68.5 29,54V32L54,23Z" />
+    <!-- Inner obsidian shield cut -->
+    <path
+        android:fillColor="#FF121626"
+        android:pathData="M54,28L74,35.2V53.5C74,65.2 65.4,74.8 54,79C42.6,74.8 34,65.2 34,53.5V35.2L54,28Z" />
+    <!-- Glowing electric purple arena chevron / wings -->
+    <path
+        android:fillColor="#FFA855F7"
+        android:pathData="M39,44L54,35L69,44V52L54,43L39,52V44Z" />
+    <!-- Central tournament trophy diamond / blade -->
+    <path
+        android:fillColor="#FFFFFFFF"
+        android:pathData="M54,46L63,56L54,71L45,56L54,46Z" />
+    <!-- Electric cyan core highlight -->
+    <path
+        android:fillColor="#FF00D4FF"
+        android:pathData="M54,51L58.5,56L54,64L49.5,56L54,51Z" />
+</vector>
